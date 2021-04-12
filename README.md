@@ -17,19 +17,6 @@ The libraries required to run this program are as follows:
 
 ---
 
-## Examples
-
-This section should include screenshots, code blocks, or animations showing how your project works.
-
----
-
-## Usage
-
-
-
----
-
-
 ## License
 
 This source code is avaiable for public consumption and can be used freely by anyone who finds it useful.
