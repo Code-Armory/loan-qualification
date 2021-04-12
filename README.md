@@ -1,4 +1,4 @@
-# Project Title
+# Loan Qualification
 
 The goal of this project is to create an application that screens loan applicants based on their financial data in order to see if they are able to qualify for one of our partner's loan offerings..
 
